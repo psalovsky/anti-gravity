@@ -1,115 +1,121 @@
-# Gravity Lab — журнал исследований, лабораторий и возможностей сотрудничества
+# Gravity Lab — journal of research, laboratories, and collaboration opportunities
 
-**Создан:** 2026-10-28  
-**Связанные материалы:** [журнал экспериментов](./experiment-log.md) · [GL-007 и план](./README.md) · [контекст обсуждения](./context-overview-2026-10-28.md)
+**Created:** 2026-10-28  
+**Related materials:** [experiment log](./experiment-log.md) · [GL-007 and plan](./README.md) · [discussion context](./context-overview-2026-10-28.md)
 
-## Назначение
+## Purpose
 
-Сохранять научные публикации, подходящие лаборатории, контакты, конкурсы, предложения сотрудничества и оценки исследовательских возможностей. В отличие от [журнала экспериментов](./experiment-log.md), здесь фиксируется **поиск информации и партнёров**, а не результаты наших измерений.
+Preserve scientific publications, suitable laboratories, contacts, calls for proposals, collaboration proposals, and assessments of research opportunities. Unlike the [experiment log](./experiment-log.md), this journal records the **search for information and partners**, not the results of our measurements.
 
-## 2026-10-28 — Возможные партнёры для GL-007
+## 2026-10-28 — Potential partners for GL-007
 
-**Статус для всех контактов:** предварительный список; **никому не писали**, подтверждений интереса, свободного оборудования, бесплатного сотрудничества или выделенного времени **нет**. Наличие релевантной экспертизы ≠ готовность провести наш опыт.
+**Status of all contacts:** preliminary list; **no one has been contacted**, and there is **no** confirmation of interest, available equipment, free collaboration, or allocated time. Relevant expertise ≠ willingness to conduct our experiment.
 
-### 1. TU Dresden, Германия — Martin Tajmar
+### 1. TU Dresden, Germany — Martin Tajmar
 
-- **Релевантность:** исследования альтернативных двигательных концепций и поиск аномальных сил в электромагнитных конфигурациях. Возможен интерес к точной проверке гипотез, но требуется обоснование научной новизны и оценка артефактов.
-- **Контакт кафедры:** raumfahrtsysteme@tu-dresden.de; телефон +49 351 463 38125.
-- **Официальные сведения:** https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/die-professur/inhaber-in?set_language=en
-- **Проверка адреса кафедры:** https://www.g-wt.de/de/industrieprojekte/expertennetzwerk/raumfahrtsysteme
-- **Связанный опубликованный результат:** экспериментальный поиск электромагнитно-гравитационной аномалии на высокочувствительных балансах (2024), без подтверждённого эффекта: https://pmc.ncbi.nlm.nih.gov/articles/PMC11339412/
-- **Предполагаемый формат:** предложить peer-reviewed совместное исследование с контрольными измерениями, без заявления о доказанной антигравитации.
+- **Relevance:** research into alternative propulsion concepts and searches for anomalous forces in electromagnetic configurations. A precise hypothesis test might be of interest, but scientific novelty and an assessment of artifacts must be justified.
+- **Chair contact:** raumfahrtsysteme@tu-dresden.de; phone +49 351 463 38125.
+- **Official information:** https://tu-dresden.de/ing/maschinenwesen/ilr/rfs/die-professur/inhaber-in?set_language=en
+- **Verification of the chair's contact address:** https://www.g-wt.de/de/industrieprojekte/expertennetzwerk/raumfahrtsysteme
+- **Related published result:** experimental search for an electromagnetic–gravitational anomaly using highly sensitive balances (2024), with no confirmed effect: https://pmc.ncbi.nlm.nih.gov/articles/PMC11339412/
+- **Proposed format:** propose a peer-reviewed collaborative study with control measurements, without claiming proven antigravity.
 
-### 2. University of Vienna / IQOQI Vienna, Австрия — Markus Aspelmeyer; группа измерений малых гравитационных сил
+### 2. University of Vienna / IQOQI Vienna, Austria — Markus Aspelmeyer; small gravitational force measurement group
 
-- **Релевантность:** измерения гравитационного взаимодействия тел порядка десятков миллиграммов, в том числе известный опыт с массами порядка 90 мг (Nature 2021).
-- **Контакт профессора:** markus.aspelmeyer@univie.ac.at. **Контакт группы:** aspelmeyer-office@univie.ac.at.
-- **Официальный сайт группы:** https://www.aspelmeyer.quantum.at/
-- **Научный профиль:** https://www.iqoqi-vienna.at/de/research/aspelmeyer-group/measuring-small-scale-gravitational-forces/
-- **Публикация:** https://doi.org/10.1038/s41586-021-03250-7
-- **Предполагаемый формат:** сначала обсудить физически осмысленную постановку, которую можно отделить от известных магнитных сил при измерении взаимодействия двух масс.
+- **Relevance:** measurements of gravitational interaction between bodies weighing tens of milligrams, including the well-known experiment with masses of approximately 90 mg (Nature 2021).
+- **Professor's contact:** markus.aspelmeyer@univie.ac.at. **Group contact:** aspelmeyer-office@univie.ac.at.
+- **Official group website:** https://www.aspelmeyer.quantum.at/
+- **Research profile:** https://www.iqoqi-vienna.at/de/research/aspelmeyer-group/measuring-small-scale-gravitational-forces/
+- **Publication:** https://doi.org/10.1038/s41586-021-03250-7
+- **Proposed format:** first discuss a physically meaningful experimental arrangement whose signal can be separated from known magnetic forces when measuring interaction between two masses.
 
-### 3. University of Southampton, Великобритания — Hendrik Ulbricht (совместная работа с Leiden / CNR)
+### 3. University of Southampton, United Kingdom — Hendrik Ulbricht (collaboration with Leiden / CNR)
 
-- **Релевантность:** сверхчувствительные гравитационные измерения с магнитно левитирующим датчиком. В публикации 2024 года зафиксировано взаимодействие с **крупными массами-источниками** на уровне порядка 30 аттоньютонов; это **не** свидетельство экранирования тяжести.
-- **Контакт:** h.ulbricht@soton.ac.uk.
-- **Университетская страница / контакт:** https://www.southampton.ac.uk/research/projects/ulbricht-constraining-modified-newtonian-dynamics-via-magnetically-levitated
-- **Работа и подробности:** https://eprints.soton.ac.uk/497731/ ; https://doi.org/10.1126/sciadv.adk2949
-- **Ограничение применимости:** экспериментальный магнитный сенсор требует тончайшего контроля систематических эффектов и не гарантирует чувствительность к гипотетической «магнитной защите».
+- **Relevance:** ultrasensitive gravitational measurements using a magnetically levitated sensor. A 2024 publication reported interaction with **large source masses** at approximately the 30-attonewton level; this is **not** evidence of gravitational shielding.
+- **Contact:** h.ulbricht@soton.ac.uk.
+- **University page / contact:** https://www.southampton.ac.uk/research/projects/ulbricht-constraining-modified-newtonian-dynamics-via-magnetically-levitated
+- **Paper and details:** https://eprints.soton.ac.uk/497731/ ; https://doi.org/10.1126/sciadv.adk2949
+- **Applicability limitation:** the experimental magnetic sensor requires extremely careful control of systematic effects and does not guarantee sensitivity to hypothetical “magnetic shielding.”
 
-## 2026-10-28 — Заявки и бесплатный доступ к инфраструктуре
+## 2026-10-28 — Applications and free infrastructure access
 
 ### ESA Open Space Innovation Platform (OSIP)
-- **Сайт:** https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/The_Open_Space_Innovation_Platform_OSIP
-- **Подача идей:** https://ideas.esa.int/
-- **Условия:** отдельные люди и организации могут предлагать идеи; ESA оценивает соответствие тематике космоса и научно-техническую новизну. Подача **не** равна финансированию или назначению лаборатории; для договорного исполнения действуют отдельные юридические условия.
-- **Потенциальное применение:** исследования фундаментальных ограничений/прорывной космической тяги, если предложение будет содержать проверяемый механизм и профиль соответствующего конкурса.
 
-### Diamond Light Source, Великобритания — пример бесплатного конкурентного доступа
-- **Условия:** для публикуемых результатов предоставляется бесплатный peer-reviewed доступ к специализированным приборам, не к произвольной экспериментальной инфраструктуре.
-- **Заявки:** https://www.diamond.ac.uk/Users/Apply-for-Beamtime.html
-- **Потенциальная применимость к GL-007:** не установлена. Это пример механизма доступа, а не кандидат для крутильных весов.
+- **Website:** https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/The_Open_Space_Innovation_Platform_OSIP
+- **Idea submissions:** https://ideas.esa.int/
+- **Conditions:** individuals and organizations can propose ideas; ESA evaluates relevance to space and scientific/technical novelty. Submission does **not** mean funding or assignment of a laboratory; separate legal conditions apply to contractual execution.
+- **Potential application:** research into fundamental limitations/breakthrough space propulsion, provided the proposal contains a testable mechanism and fits the relevant call.
 
-## 2026-10-28 — Концепция «Vibe Science» и мировой контекст
+### Diamond Light Source, United Kingdom — an example of free competitive access
 
-**Идея:** платформа, в которой исследователь ставит вопрос обычным языком, а AI-помощник уточняет гипотезу и критерии опровержения; проверяет литературу; моделирует эффекты и помехи; составляет протокол и спецификацию; подбирает реальные установки/лаборатории; запрашивает доступ или бюджет; с разрешения оператора запускает физическое испытание; собирает сырые данные и публикует воспроизводимый отчёт.
+- **Conditions:** free peer-reviewed access to specialized instruments is offered for publishable results, not to arbitrary experimental infrastructure.
+- **Applications:** https://www.diamond.ac.uk/Users/Apply-for-Beamtime.html
+- **Potential applicability to GL-007:** undetermined. This illustrates an access mechanism, not a candidate facility for torsion-balance experiments.
 
-**Что уже существует по частям:**
+## 2026-10-28 — The “Vibe Science” concept and global context
 
-1. **Model Hardware Standard (MHS), Anthropic (27 августа 2026)** — исследовательский предварительный стандарт связи агентов с приборами и роборуками, но не массовая открытая платформа для любых экспериментов. https://www.anthropic.com/news/model-hardware-standard-research-preview
-2. **NSF, США (23 июля 2026)** — объявлены $380 млн для 20 команд в сети AI-программируемых облачных лабораторий плюс >$20 млн благотворительного участия. Крупная ставка на доступное воспроизводимое физическое экспериментирование, но не подтверждение готового универсального сервиса. https://content.govdelivery.com/accounts/USNSF/bulletins/421a483
-3. **Emerald Cloud Lab / GEMSTONE** — программируемая облачная лаборатория, развивает доступ для разных научных организаций; не универсальная физическая лаборатория с любыми приборами. https://gemstoneproject.org/education/
-4. **Science Exchange** — посредник/рынок внешних научных услуг и лабораторных подрядчиков, преимущественно исследования в life sciences; чаще коммерческая модель. https://www.scienceexchange.com/platform/rd-marketplace
+**Idea:** a platform where a researcher poses a question in ordinary language and an AI assistant refines the hypothesis and falsification criteria; checks the literature; models effects and interference; prepares a protocol and specification; selects real apparatus/laboratories; requests access or a budget; launches a physical test with operator approval; collects raw data; and publishes a reproducible report.
 
-**Доказательство очередей на дефицитные установки (не оценка общего рынка):**
-- **ALMA Cycle 13 (апрель—май 2026):** 1843 заявки, более 37 000 запрошенных часов 12-метрового массива; действительно высокое давление спроса на дорогое оборудование. https://www.eso.org/sci/facilities/alma/news/announcements/alma-ann260527a.html
-- **ALMA Cycle 12 (2025):** 1640 заявок, более 30 000 часов, oversubscription ~7,0. https://www.almaobservatory.org/en/announcements/from-cosmic-dawn-to-planet-birth-alma-cycle-12-observations-set-to-begin/
-- **Diamond Light Source (2023/24):** 2034 заявки на измерения, 1312 получили время; 26 211 запрошенных смен против 15 972 выделенных. https://www.diamond.ac.uk/Home/News/LatestNews/2024/20112024.html
+**What already exists in parts:**
 
-**Важное ограничение:** очереди на уникальные научные установки не означают, что где-то лежат миллионы полностью сформулированных опытов, готовых к бесплатной автоматической постановке. Барьеры включают научную ценность, качество протокола, безопасность, подготовку образцов, квалифицированных операторов, интерфейсы оборудования, финансирование и публикацию. Условия нагрузки могут сильно различаться по лабораториям.
+1. **Model Hardware Standard (MHS), Anthropic (August 27, 2026)** — a research-preview standard for connecting agents to instruments and robotic arms, not a widely available open platform for arbitrary experiments. https://www.anthropic.com/news/model-hardware-standard-research-preview
+2. **NSF, United States (July 23, 2026)** — $380 million announced for 20 teams in a network of AI-programmable cloud laboratories, plus >$20 million in philanthropic participation. A major commitment to accessible, reproducible physical experimentation, but not confirmation of a finished universal service. https://content.govdelivery.com/accounts/USNSF/bulletins/421a483
+3. **Emerald Cloud Lab / GEMSTONE** — a programmable cloud laboratory expanding access for different scientific organizations; not a universal physics laboratory with every kind of instrument. https://gemstoneproject.org/education/
+4. **Science Exchange** — an intermediary/marketplace for external scientific services and laboratory contractors, primarily life sciences research; usually a commercial model. https://www.scienceexchange.com/platform/rd-marketplace
 
-**Продуктовая гипотеза:** наиболее доступная ниша для пилота — **один тип воспроизводимых измерений**, включая экспертный аудит плана и результат с сырыми данными. Большая платформа «идея → любое устройство → результат» пока не показана как готовый универсальный сервис. Нужна валидация спроса у реальных исследователей и учреждений, а не оценка на основании конкурсов ALMA.
+**Evidence of queues for scarce facilities (not an estimate of the overall market):**
 
-## Следующие действия (без самостоятельной отправки)
+- **ALMA Cycle 13 (April–May 2026):** 1843 proposals, more than 37,000 requested hours on the 12-meter array; substantial demand pressure on expensive equipment. https://www.eso.org/sci/facilities/alma/news/announcements/alma-ann260527a.html
+- **ALMA Cycle 12 (2025):** 1640 proposals, more than 30,000 hours, oversubscription ~7.0. https://www.almaobservatory.org/en/announcements/from-cosmic-dawn-to-planet-birth-alma-cycle-12-observations-set-to-begin/
+- **Diamond Light Source (2023/24):** 2034 measurement proposals, 1312 allocated time; 26,211 requested shifts versus 15,972 allocated. https://www.diamond.ac.uk/Home/News/LatestNews/2024/20112024.html
 
-- [ ] Для GL-007 сопоставить существующие опубликованные опыты и оценить, требуется ли вообще новая установка.
-- [ ] Сформулировать 1–2-страничную заявку с оценкой порядка эффекта и методов исключения помех — **только по отдельному запросу**.
-- [ ] При отдельном разрешении — обратиться к подходящим лабораториям; пока **не отправлять письма**.
-- [ ] Для «Vibe Science» изучить три сценария: дома с недорогими приборами; платная облачная лаборатория; академическая установка через конкурс/коллаборацию.
+**Important limitation:** queues at unique scientific facilities do not imply millions of fully formulated experiments waiting somewhere for free automated execution. Barriers include scientific value, protocol quality, safety, sample preparation, qualified operators, equipment interfaces, funding, and publication. Demand conditions may vary substantially between laboratories.
 
-## Правило журнала
+**Product hypothesis:** the most accessible pilot niche is **one type of reproducible measurement**, including expert review of the plan and a result accompanied by raw data. A broad “idea → any device → result” platform has not yet been demonstrated as a finished universal service. Demand must be validated with real researchers and institutions, rather than estimated from ALMA proposal calls.
 
-Отдельно записывать: «найдено в открытых источниках», «предположение», «отправлено», «ответ получен», «договорились», «эксперимент проведён». Сохранять ссылки на подтверждения.
+## Next actions (no independent outreach)
 
-## 2026-10-28 — Насколько универсальны облачные лаборатории для физических опытов?
+- [ ] For GL-007, compare existing published experiments and assess whether a new apparatus is needed at all.
+- [ ] Prepare a 1–2-page proposal estimating the effect's order of magnitude and methods for excluding interference — **only upon a separate request**.
+- [ ] With separate permission, contact suitable laboratories; **do not send emails** at this stage.
+- [ ] For “Vibe Science,” investigate three scenarios: home experiments with inexpensive instruments; a paid cloud laboratory; an academic facility accessed through a competition/collaboration.
 
-**Вывод:** облачные лаборатории проводят **реальные физические эксперименты**, но не произвольные опыты по свободному текстовому заданию. Автоматизация ограничена оборудованием, диапазоном параметров, подготовленными методами, физической перестройкой установки, безопасностью и человеческой квалификацией. «Роборука» даёт манипулирование, но не заменяет специализированный научный прибор.
+## Journal rule
 
-**Примеры проверенных возможностей:**
+Record these states separately: “found in public sources,” “assumption,” “sent,” “reply received,” “agreement reached,” and “experiment conducted.” Preserve links to supporting evidence.
 
-- **Emerald Cloud Lab:** удалённое проведение преимущественно химических и биологических экспериментов, включая NMR, спектроскопию, масс-спектрометрию, измерения веса и некоторые физико-химические методы; образцы отправляют на площадку. Есть большой каталог программируемых, но заранее доступных процедур. https://www.emeraldcloudlab.com/guides/runningexperiments ; https://www.emeraldcloudlab.com/how-it-works/
-- **Strateos:** браузерное/API управление роботизированными экспериментами, главным образом life sciences; новый workflow требуется спроектировать и внедрить. https://strateos.com/strateos-control-our-lab/ ; https://strateos.com/how-to-get-started-with-strateos/
-- **PolyU LabXRA (Гонконг):** физическая удалённая лаборатория, где реальные установки выполняют опыты по интерференции, электромагнитной индукции и другим заранее предусмотренным направлениям. Это в основном образовательный доступ, не универсальные исследовательские стенды. https://www.polyu.edu.hk/pm/services/labxra/borderless-lab/
-- **Argonne National Laboratory, SYNAPS-I (5 октября 2026):** демонстрация агента, который по естественно-языковому заданию самостоятельно выполнял сканирование и анализ образца на рентгеновской нанозондовой установке, выбирая дальнейшие шаги по данным. **Это важное доказательство управляемого агентом физического измерения, но не сборки любой новой установки из компонентов.** https://www.alcf.anl.gov/news/new-kind-microscope-agentic-ai-turns-simple-language-self-guided-experimentation
+## 2026-10-28 — How universal are cloud laboratories for physical experiments?
 
-**Для GL-007:** обычная облачная лаборатория биологии/химии малопригодна. Требуются гравитационно-чувствительный стенд, крутильные весы/соответствующий датчик, электромагнитный источник, виброизоляция, система подавления артефактов и опытный оператор. Вариант для удалённого запуска — сначала **человек конфигурирует и валидирует специализированный стенд**, затем агент управляет безопасными, уже разрешёнными параметрами и обрабатывает измерения. На данном этапе доступная облачная лаборатория с готовым протоколом GL-007 **не выявлена**.
+**Conclusion:** cloud laboratories conduct **real physical experiments**, but not arbitrary experiments from an unrestricted text request. Automation is limited by equipment, parameter ranges, prepared methods, physical reconfiguration, safety, and human expertise. A “robotic arm” provides manipulation, not a replacement for a specialized scientific instrument.
 
-**Гипотеза продукта Vibe Science:** каталог «экспериментальных возможностей» вместо обещания сделать любой опыт. Маршрутизировать запрос в три режима: (1) готовый автоматизированный протокол; (2) программируемая физическая установка с ограниченным управлением; (3) новая установка, которую проектируют/собирают и проверяют специалисты. Отдельно показывать бюджеты, допуски, ограничения, неопределённости и статус исполнения. Никакой опыт не считать проведённым без данных, а регистрацию гипотезы — подтверждением результата.
+**Examples of verified capabilities:**
 
-## 2026-10-28 — Магнитная подушка 6 м² и магнитное поле Земли как внешняя опора
+- **Emerald Cloud Lab:** remote execution primarily of chemical and biological experiments, including NMR, spectroscopy, mass spectrometry, weight measurements, and some physicochemical methods; samples are shipped to the facility. A large catalog of programmable but already available procedures exists. https://www.emeraldcloudlab.com/guides/runningexperiments ; https://www.emeraldcloudlab.com/how-it-works/
+- **Strateos:** browser/API control of robotic experiments, mainly in life sciences; a new workflow must be designed and implemented. https://strateos.com/strateos-control-our-lab/ ; https://strateos.com/how-to-get-started-with-strateos/
+- **PolyU LabXRA (Hong Kong):** a remote physical laboratory where real setups perform experiments on interference, electromagnetic induction, and other predefined topics. Access is mainly educational, not a universal research facility. https://www.polyu.edu.hk/pm/services/labxra/borderless-lab/
+- **Argonne National Laboratory, SYNAPS-I (October 5, 2026):** a demonstration of an agent that independently scanned and analyzed a sample on an X-ray nanoprobe instrument from a natural-language request, choosing subsequent steps based on data. **This is important evidence of agent-controlled physical measurement, not the assembly of any arbitrary new apparatus from components.** https://www.alcf.anl.gov/news/new-kind-microscope-agentic-ai-turns-simple-language-self-guided-experimentation
 
-### Пересчёт магнитной подушки над диамагнитной поверхностью
-- Зафиксированный пользователем размер аппарата: **2×3 м, площадь 6 м²**; требуемая общая подъёмная масса **1 000 кг**, включая саму магнитную установку.
-- В крайне идеализированной модели плоской поверхности с магнитной восприимчивостью воды χ≈−9,05×10⁻⁶, давления ≈|χ|B²/(2µ₀) и распределения поля по всей площади: при 6 м² поле у поверхности **≈21,3 Тл**, при 10 м² **≈16,5 Тл**. Величина относится к полю **у земной поверхности**, а не обязательно к катушке.
-- При 21,3 Тл объёмная плотность энергии поля B²/(2µ₀) ≈1,81×10⁸ Дж/м³ (≈50 кВт⋅ч/м³), **не** прямой расход электроэнергии за час.
-- Это только грубая оценка силы; не определены масса катушек, криосистема, энергия поддержания поля, устойчивость и достижимая высота. Над обычным неоднородным грунтом оценка с водой не переносится автоматически. С уменьшением площади требуемое поле растёт как 1/√A в данной модели.
+**For GL-007:** an ordinary biology/chemistry cloud laboratory is poorly suited. A gravity-sensitive apparatus, torsion balance/appropriate sensor, electromagnetic source, vibration isolation, artifact suppression, and an experienced operator are required. A remote-execution option would first require **a person to configure and validate a specialized apparatus**, after which an agent could control safe, already approved parameters and process measurements. At this stage, an accessible cloud laboratory with a ready GL-007 protocol **has not been identified**.
 
-### Магнитное поле Земли как внешняя опора
-- Среднее у поверхности **25–65 микротесла**: https://www.ncei.noaa.gov/products/geomagnetism-frequently-asked-questions.
-- **Подтверждённое применение:** магнитные катушки спутников создают **момент вращения** за счёт взаимодействия с земным полем; это позволяет ориентировать аппарат, но почти не даёт поступательной подъёмной силы. Пример — космический телескоп Hubble: https://science.nasa.gov/mission/hubble/observatory/design/pointing-control/.
-- **Реальная тяга в орбите:** электродинамический трос с электрическим током испытывает силу Лоренца IL×B; в схемах орбитальных тросов используют также взаимодействие с окружающей плазмой. Отработка принципов в NASA PMG и экспериментальные программы TEPCE. Это не неподвижное зависание над грунтом. https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion/ ; https://www.nasa.gov/smallsat-institute/community-of-practice/tether-electrodynamics-propulsion-cubesat-experiment-tepce/.
-- **Для свободного компактного электромагнита** в приблизительно однородном поле Земли есть вращающий момент, но **нет суммарной силы в однородном поле**. Сила в неоднородном поле ≈m∇B. В грубой дипольной модели Земли при B=50 мкТл, R=6371 км: |∂B/∂r|~3B/R≈2,35×10⁻¹¹ Тл/м. Чтобы удержать 1000 кг, понадобился бы магнитный момент **~4×10¹⁴ А·м²**, или ток ~7×10¹³ А в одновитковой петле площадью 6 м² (формальное, физически непрактичное сравнение). Местные магнитные аномалии могут иметь большие градиенты, но тогда взаимодействие будет с местными магнитными материалами/структурами, а не с однородным глобальным полем.
-- **Вывод:** земное поле действительно можно использовать для поворота спутника и, при наличии электродинамического контура, для слабой орбитальной тяги. **Подъём автомобиля массой 1 т с помощью только его компактного магнита и глобального геомагнитного поля практически недостижим**. Поле велико по пространственному охвату, но слабо по величине и изменяется очень медленно. Это не гравитационное экранирование.
+**Vibe Science product hypothesis:** a catalog of “experimental capabilities,” rather than a promise to perform any experiment. Route requests into three modes: (1) an existing automated protocol; (2) a programmable physical apparatus with limited control; (3) a new apparatus designed/assembled and validated by specialists. Show budgets, tolerances, limitations, uncertainties, and execution status separately. No experiment should count as conducted without data, and registering a hypothesis must not count as confirming a result.
 
-## 2026-10-28 — Сводка закрытых вопросов
-- [Верифицированная сводка: ранее проведённые опыты с возможным гравитационным экранированием, ограничения магнитной подушки 1 т / 6 м², масса, потребление и высота](./unanswered-questions-2026-10-28.md). Контекст: повторения Подклетнова не подтвердили заявленный эффект; расчёт 21,3 Тл — только модель с водой, не проект реального подъёмника.
+## 2026-10-28 — A 6 m² magnetic cushion and Earth's magnetic field as external support
+
+### Recalculation of a magnetic cushion above a diamagnetic surface
+
+- Vehicle size specified by the user: **2×3 m, area 6 m²**; required total lifted mass **1000 kg**, including the magnetic apparatus itself.
+- In a highly idealized flat-surface model using water's magnetic susceptibility χ≈−9.05×10⁻⁶, pressure ≈|χ|B²/(2µ₀), and a field distributed across the entire area: for 6 m², the surface field is **≈21.3 T**; for 10 m², **≈16.5 T**. The value refers to the field **at the ground surface**, not necessarily at the coil.
+- At 21.3 T, the volumetric field energy density B²/(2µ₀) is ≈1.81×10⁸ J/m³ (≈50 kWh/m³), **not** direct hourly electricity consumption.
+- This is only a rough force estimate; coil mass, cryogenics, energy needed to maintain the field, stability, and achievable height are undetermined. The water-based estimate does not automatically apply to ordinary heterogeneous ground. In this model, the required field increases as 1/√A when area decreases.
+
+### Earth's magnetic field as external support
+
+- Average near the surface: **25–65 microtesla**: https://www.ncei.noaa.gov/products/geomagnetism-frequently-asked-questions.
+- **Confirmed application:** satellite magnetic coils generate **torque** through interaction with Earth's field; this controls spacecraft orientation but produces almost no translational lift. Example — the Hubble Space Telescope: https://science.nasa.gov/mission/hubble/observatory/design/pointing-control/.
+- **Real orbital thrust:** a current-carrying electrodynamic tether experiences the Lorentz force IL×B; orbital tether systems also interact with the surrounding plasma. Principles were tested in NASA PMG and the TEPCE experimental programs. This is not stationary hovering over ground. https://www.nasa.gov/smallsat-institute/sst-soa/in-space_propulsion/ ; https://www.nasa.gov/smallsat-institute/community-of-practice/tether-electrodynamics-propulsion-cubesat-experiment-tepce/.
+- **A free, compact electromagnet** in Earth's approximately uniform field experiences torque but **no net force in a uniform field**. Force in a nonuniform field is ≈m∇B. In a rough dipole model of Earth with B=50 μT and R=6371 km: |∂B/∂r|~3B/R≈2.35×10⁻¹¹ T/m. Supporting 1000 kg would require a magnetic moment of **~4×10¹⁴ A·m²**, or a current of ~7×10¹³ A in a single-turn loop of area 6 m² (a formal, physically impractical comparison). Local magnetic anomalies can have larger gradients, but the interaction would then be with local magnetic materials/structures, rather than a uniform global field.
+- **Conclusion:** Earth's field can indeed be used to turn a satellite and, with an electrodynamic circuit, generate weak orbital thrust. **Lifting a 1-tonne car using only its compact magnet and the global geomagnetic field is practically unattainable**. The field covers a large spatial extent but is weak and varies very slowly. This is not gravitational shielding.
+
+## 2026-10-28 — Summary of resolved questions
+
+- [Verified summary: previous experiments on possible gravitational shielding, limitations of a 1-tonne / 6 m² magnetic cushion, mass, consumption, and height](./unanswered-questions-2026-10-28.md). Context: replications of Podkletnov did not confirm the claimed effect; the 21.3 T calculation is only a water-based model, not the design of a real lifting device.

@@ -1,45 +1,47 @@
-# Gravity Lab — журнал экспериментов
+# Gravity Lab — experiment log
 
-**Начат:** 2026-10-28  
-**Назначение:** последовательный учёт собственных протоколов, подготовок, измерений, результатов и проблем.  
-**Важное различие:** описанная идея или опубликованная чужая работа — **не** проведённый нами эксперимент.
+**Started:** 2026-10-28  
+**Purpose:** maintain a sequential record of our own protocols, preparations, measurements, results, and problems.  
+**Important distinction:** a described idea or someone else's published work is **not** an experiment we have conducted.
 
-## Реестр
+## Register
 
-| ID | Название | Дата регистрации | Текущий статус | Данные измерений | Связанные материалы |
+| ID | Title | Registration date | Current status | Measurement data | Related materials |
 |---|---|---|---|---|---|
-| GL-007 | Проверка возможного влияния магнитного поля на гравитационное притяжение малых масс | 2026-10-28 | Гипотеза / предварительное проектирование; эксперимент не проводился | Нет | [План GL-007](./README.md), [контекст](./context-overview-2026-10-28.md), [журнал исследований](./research-journal.md) |
+| GL-007 | Testing a possible magnetic-field effect on gravitational attraction between small masses | 2026-10-28 | Hypothesis / preliminary design; experiment not conducted | None | [GL-007 plan](./README.md), [context](./context-overview-2026-10-28.md), [research journal](./research-journal.md) |
 
-## GL-007 — карточка протокола (28 октября 2026)
+## GL-007 — protocol record (October 28, 2026)
 
-**Исследовательский вопрос:** меняется ли непосредственно гравитационное притяжение двух известных небольших масс при создании между ними электромагнитного поля?
+**Research question:** does the gravitational attraction itself between two known small masses change when an electromagnetic field is generated between them?
 
-- **H0:** изменения измеренных сил объясняются обычными электромагнитными, температурными, механическими или статистическими эффектами; нового гравитационного эффекта нет.
-- **H1 (не подтверждена):** после исключения перечисленных влияний наблюдается воспроизводимое изменение измеряемого гравитационного притяжения, зависящее от режима поля.
-- **Приоритетная постановка B:** крутильный маятник/весы с известной массой-источником и пробной массой. Повторять измерение с включённым/отключённым полем и с перемещением источника массы; анализировать только дифференциальный сигнал, пропорциональный источнику.
-- **Вспомогательная постановка A:** измерение веса малого образца при переключении магнитного поля. Это полезный контроль силы и наводок, но изменение веса **само по себе не является** свидетельством изменения гравитации.
-- **Контроли:** градиенты B и магнитная восприимчивость всех деталей; электростатика; вихревые токи; нагрев, конвекция, вибрации; движение опор; электрические наводки; показания удалённого референтного датчика; слепой порядок режимов; заранее определённый критерий обнаружения; независимая репликация.
-- **Численная проверка масштаба:** для двух масс по 10 г на расстоянии 1 см сила Ньютона ≈ 6,7×10⁻¹¹ Н, или 67 пН. Для двух масс по 1 г при том же расстоянии ≈ 0,67 пН.
-- **Главная неизвестность:** нет физически обоснованного численного прогноза величины необычного экранирующего эффекта; до строительства установки необходимо оценить, что вообще может быть измерено на выбранной аппаратуре.
-- **Состояние:** техническая схема окончательно не разработана; лаборатория не выбрана; внешний партнёр не подтверждён; финансирование не выделено; измерений нет.
-- **Следующие действия:** обзор ранее проверенных полей/частот/геометрий; модель систематических погрешностей; выбор измерительной архитектуры и критериев достаточной чувствительности; при наличии научной новизны — обращение к исследовательским группам из [журнала исследований](./research-journal.md).
+- **H0:** changes in measured forces are explained by ordinary electromagnetic, thermal, mechanical, or statistical effects; there is no new gravitational effect.
+- **H1 (unconfirmed):** after excluding those influences, a reproducible change in measured gravitational attraction is observed that depends on the field conditions.
+- **Preferred setup B:** a torsion pendulum/balance with a known source mass and test mass. Repeat the measurement with the field on/off and the source mass moved; analyze only the differential signal proportional to the source.
+- **Auxiliary setup A:** measure the weight of a small sample while switching the magnetic field. This is a useful control for forces and interference, but a weight change **by itself is not** evidence of altered gravity.
+- **Controls:** B-field gradients and the magnetic susceptibility of all components; electrostatics; eddy currents; heating, convection, vibration; support movement; electrical interference; readings from a remote reference sensor; blinded ordering of conditions; a predefined detection criterion; independent replication.
+- **Numerical scale check:** for two 10 g masses separated by 1 cm, Newtonian force ≈ 6.7×10⁻¹¹ N, or 67 pN. For two 1 g masses at the same separation, ≈ 0.67 pN.
+- **Main unknown:** there is no physically justified numerical prediction for the magnitude of an unusual shielding effect; before building the apparatus, assess what can actually be measured using the selected equipment.
+- **State:** the technical design has not been finalized; no laboratory selected; no external partner confirmed; no funding allocated; no measurements.
+- **Next actions:** review previously tested fields/frequencies/geometries; model systematic errors; select a measurement architecture and adequate sensitivity criteria; if scientific novelty is established, contact research groups listed in the [research journal](./research-journal.md).
 
-## Шаблон записи нового опыта
+## Template for a new experiment entry
 
-### GL-XXX — Название
-- **Дата / автор / место / установка:**
-- **Гипотеза и предсказанная величина эффекта:**
-- **Конфигурация и оборудование:**
-- **Протокол и контрольные режимы:**
-- **Калибровка / чувствительность / порог обнаружения:**
-- **Сырые данные / файлы / код анализа:**
-- **Результат и неопределённость:**
-- **Артефакты, альтернативные объяснения, повторение:**
-- **Следующее решение / ответственный / дата:**
+### GL-XXX — Title
 
-## Правило ведения
+- **Date / author / location / apparatus:**
+- **Hypothesis and predicted effect magnitude:**
+- **Configuration and equipment:**
+- **Protocol and control conditions:**
+- **Calibration / sensitivity / detection threshold:**
+- **Raw data / files / analysis code:**
+- **Result and uncertainty:**
+- **Artifacts, alternative explanations, replication:**
+- **Next decision / responsible person / date:**
 
-Не ставить статус «проведён» до появления действительных измерений и сырого протокола. Отрицательные результаты записывать наравне с положительными. Сохранять версии схем, условий и данных, а не только интерпретации.
+## Recordkeeping rule
 
-## Запись от 2026-10-28 — дополнительные физические расчёты (не опыт)
-- Отдельная оценка диамагнитной опоры аппарата массой 1000 кг и площадью 6 м² записана в [сводке вопросов](./unanswered-questions-2026-10-28.md): ≈21,3 Тл у поверхности **при условии** однородного диамагнетика с параметрами воды. Это не построенная установка и не измеренный результат. Масса, мощность и высота — не установлены. GL-007 об экранировании гравитации остаётся отдельной непроверенной гипотезой.
+Do not mark an experiment as “conducted” until actual measurements and a raw experimental record exist. Record negative results alongside positive ones. Preserve versions of diagrams, conditions, and data, rather than interpretations alone.
+
+## Entry dated 2026-10-28 — additional physics calculations (not an experiment)
+
+- A separate estimate for diamagnetic support of a 1000 kg vehicle with an area of 6 m² is recorded in the [question summary](./unanswered-questions-2026-10-28.md): ≈21.3 T at the surface **assuming** a homogeneous diamagnetic material with the properties of water. This is neither a constructed apparatus nor a measured result. Mass, power, and height are undetermined. GL-007 on gravitational shielding remains a separate, untested hypothesis.

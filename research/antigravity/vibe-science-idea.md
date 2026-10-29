@@ -1,38 +1,38 @@
-# Vibe Science — идея сервиса
+# Vibe Science — service concept
 
-**Зафиксировано:** 28 октября 2026 года  
-**Статус:** концепция, не утверждённый продукт и не реализованный сервис.
+**Recorded:** October 28, 2026  
+**Status:** concept, not an approved product or an implemented service.
 
-## Суть
+## Core idea
 
-**Vibe Science** — аналог vibe coding для проведения **реальных научных и инженерных экспериментов**. Пользователь формулирует гипотезу на естественном языке, а ИИ помогает превратить её в физическую проверку и получить воспроизводимый результат. Цель — дать человеку и ИИ «руки» для исследования мира, а не только способность создавать тексты, расчёты и модели.
+**Vibe Science** is an analogue of vibe coding for conducting **real scientific and engineering experiments**. A user formulates a hypothesis in natural language, and AI helps turn it into a physical test and obtain a reproducible result. The goal is to give people and AI “hands” for exploring the world, beyond the ability to generate text, calculations, and models.
 
-## Сценарий
+## Workflow
 
-1. Идея / исследовательский вопрос → проверяемая гипотеза.
-2. Поиск предшествующих работ, расчёт ожидаемого эффекта и требований к точности.
-3. Выбор способа исполнения: домашняя установка из покупных компонентов (например, AliExpress) и 3D-печати; готовая автоматизированная лаборатория; научная группа / коллективный эксперимент.
-4. Протокол, спецификация оборудования, бюджет, ограничения по безопасности.
-5. Сборка / настройка оборудования человеком или роботом с проверкой работоспособности.
-6. Безопасный запуск опыта, получение сырых данных, проверка ошибок, повторение и публикация отчёта.
+1. Idea / research question → testable hypothesis.
+2. Search for prior work; calculate the expected effect and precision requirements.
+3. Choose an execution method: a home setup using purchased components (for example, from AliExpress) and 3D printing; an existing automated laboratory; a research group / collaborative experiment.
+4. Define the protocol, equipment specification, budget, and safety constraints.
+5. A person or robot assembles/configures the equipment and verifies that it works.
+6. Run the experiment safely, collect raw data, check for errors, repeat, and publish a report.
 
-## Основная продуктовая идея
+## Main product idea
 
-Не пытаться сразу автоматизировать **любой** эксперимент: сначала каталог классов задач, для которых доступны инструменты, эксперты и стандартизированные протоколы. ИИ выступает оркестратором между исследователем, моделированием, поставщиками деталей, роботизированными лабораториями и научными группами.
+Do not try to automate **every** experiment immediately: start with a catalog of task classes for which tools, experts, and standardized protocols are available. AI acts as an orchestrator between the researcher, modeling, component suppliers, robotic laboratories, and research groups.
 
-## Что обсудили
+## Discussion points
 
-- Облачные лаборатории уже могут исполнять некоторые реальные эксперименты с химией, биологией, материалами, микроскопией и физическими измерениями. Они **не универсальны**: новые установки требуют инженерного проектирования и калибровки.
-- Часть сложных научных установок перегружена заявками, но это не означает, что существует универсальная очередь всех непроверенных гипотез.
-- Доступ к экспериментам может быть по коммерческому заказу, совместной работе исследователей или конкурсным заявкам; бесплатная реализация не гарантирована.
-- Для начала нужен узкий набор задач с понятной метрологией, процедурами и ограничениями, чтобы результат оставался проверяемым.
+- Cloud laboratories can already execute some real experiments in chemistry, biology, materials, microscopy, and physical measurement. They are **not universal**: new setups require engineering design and calibration.
+- Some complex scientific facilities receive more requests than they can accommodate, but this does not imply a universal queue of all untested hypotheses.
+- Experimental access may be available through commercial orders, research collaborations, or competitive proposals; free execution is not guaranteed.
+- Start with a narrow set of tasks with clear metrology, procedures, and constraints so that results remain verifiable.
 
-## Пример применения
+## Example application
 
-**Gravity Lab / GL-007:** проверка гипотезы изменения гравитационного притяжения малых масс в магнитном поле. Потенциальный сценарий платформы: проверка новизны → моделирование паразитных сил → подбор точной установки и лаборатории → исполнение под контролем специалиста → независимая верификация.
+**Gravity Lab / GL-007:** testing the hypothesis that a magnetic field changes gravitational attraction between small masses. A potential platform workflow: novelty check → modeling of parasitic forces → selection of precision equipment and a laboratory → execution under expert supervision → independent verification.
 
-## Статус действий
+## Action status
 
-Только фиксация идеи. **Разработку, заявки и обращения в лаборатории не начинали.**
+Only the idea has been recorded. **Development, applications, and laboratory outreach have not begun.**
 
-См. также [журнал исследований](./research-journal.md) и [журнал экспериментов](./experiment-log.md).
+See also the [research journal](./research-journal.md) and [experiment log](./experiment-log.md).

@@ -1,64 +1,65 @@
 # Antigravity — Gravity Lab
 
-**Статус:** исследовательская программа; гипотезы не подтверждены.  
-**Начато:** 2026-10-28.  
-**Назначение каталога:** сохранять проверяемые гипотезы, расчёты, источники, схемы, контрольные испытания и результаты по управлению гравитационным взаимодействием.
+**Status:** research program; hypotheses remain unconfirmed.  
+**Started:** 2026-10-28.  
+**Purpose of this directory:** preserve testable hypotheses, calculations, sources, diagrams, control tests, and results concerning control of gravitational interaction.
 
-## Исследовательский вопрос
+## Research question
 
-Может ли магнитное поле **экранировать или изменять гравитационное взаимодействие** двух материальных тел, а не только создавать обычную магнитную силу, компенсирующую тяжесть?
+Can a magnetic field **shield or alter the gravitational interaction** between two material bodies, rather than merely produce an ordinary magnetic force that counteracts gravity?
 
-В современной проверенной физике магнитного экранирования гравитации нет. Электромагнитное поле имеет энергию и импульс и потому само является источником (крайне слабого) гравитационного поля согласно ОТО. Необычное ослабление притяжения — **альтернативная, пока не подтверждённая гипотеза**, требующая отдельной проверки.
+Established modern physics provides no magnetic shielding of gravity. An electromagnetic field carries energy and momentum and therefore generates its own (extremely weak) gravitational field under general relativity. An unusual reduction in attraction is an **alternative, currently unconfirmed hypothesis** requiring a separate test.
 
-## GL-007 — Магнитное экранирование гравитации на малых массах
+## GL-007 — Magnetic shielding of gravity between small masses
 
-**Цель:** сравнить гравитационное взаимодействие при выключенном/включённом магнитном поле и отделить его от прямого воздействия поля на прибор и образец.
+**Objective:** compare gravitational interaction with the magnetic field off and on, separating it from the field's direct effects on the instrument and sample.
 
-**Основная гипотеза H1:** включение или изменение конфигурации магнитного поля приводит к воспроизводимому изменению *именно гравитационного* притяжения между заданными массами, не объяснимому известными электромагнитными, тепловыми, механическими и измерительными эффектами.
+**Main hypothesis H1:** switching on a magnetic field or changing its configuration causes a reproducible change in the *gravitational* attraction between specified masses that cannot be explained by known electromagnetic, thermal, mechanical, or measurement effects.
 
-**Нулевая гипотеза H0:** возможные изменения показаний полностью объясняются известными эффектами или статистической погрешностью; гравитационное притяжение масс не меняется сверх стандартного предсказания.
+**Null hypothesis H0:** any changes in readings are fully explained by known effects or statistical uncertainty; gravitational attraction between the masses does not change beyond the standard prediction.
 
-### Вариант A. Вес малого образца
+### Option A. Weight of a small sample
 
-Небольшой слабомагнитный или диамагнитный тестовый образец помещается на чувствительный датчик силы вблизи электромагнитной установки. Сравниваются режимы: без поля; статическое поле; переменное/вращающееся поле; изменение направления поля. Измеряются поле и его градиенты в точке образца.
+Place a small, weakly magnetic or diamagnetic test sample on a sensitive force sensor near an electromagnetic setup. Compare these conditions: no field; static field; alternating/rotating field; reversed field direction. Measure the field and its gradients at the sample's position.
 
-**Ограничение:** изменение «веса» само по себе не доказывает изменения гравитации. Даже немагнитные материалы обладают магнитной восприимчивостью; кроме того, возможны электростатика, токи Фуко, нагрев, конвекция, вибрации и наводки.
+**Limitation:** a change in “weight” alone does not demonstrate a change in gravity. Even nonmagnetic materials have magnetic susceptibility; electrostatics, eddy currents, heating, convection, vibration, and electromagnetic interference are also possible.
 
-### Вариант B. Прямое притяжение двух масс (приоритетный)
+### Option B. Direct attraction between two masses (preferred)
 
-Источник массы и пробная масса образуют гравитационно взаимодействующую пару; слабую силу измеряют, например, крутильными весами. Магнитную конфигурацию помещают так, чтобы сравнить измеренное притяжение при разных режимах поля. Контрольные прогоны проводятся при удалённой/перемещённой массе-источнике, чтобы выделить гравитационную составляющую.
+A source mass and a test mass form a gravitationally interacting pair; measure the weak force using, for example, a torsion balance. Position the magnetic configuration so that the measured attraction can be compared under different field conditions. Perform control runs with the source mass removed or moved to isolate the gravitational component.
 
-**Пример масштаба:** две массы по 10 г на расстоянии 1 см создают силу порядка **6,7 × 10⁻¹¹ Н (67 пиконьютонов)** по закону Ньютона. Если взять массы по 1 г при том же расстоянии, сила станет в 100 раз меньше: **6,7 × 10⁻¹³ Н**. Малая масса не облегчает автоматически эксперимент: измеряемый сигнал также уменьшается.
+**Example scale:** two 10 g masses separated by 1 cm produce a force of approximately **6.7 × 10⁻¹¹ N (67 piconewtons)** under Newton's law. For two 1 g masses at the same separation, the force is 100 times smaller: **6.7 × 10⁻¹³ N**. Smaller masses do not automatically make the experiment easier: the measured signal also decreases.
 
-### Обязательные контроли
+### Required controls
 
-1. Предварительная электромагнитная модель распределения поля, его градиентов и сил на все материалы конструкции.
-2. Отдельные контрольные измерения нагрева, дрейфа, электростатики, вибраций, движения опор, акустики и воздушных потоков (вакуум по необходимости).
-3. Проверка различных ориентаций, полярностей и частот, включая режим с отключённым полем и имитацией включения (sham).
-4. Контрольный немагнитный канал и удалённый опорный датчик, независимая калибровка чувствительности.
-5. Рандомизированный, по возможности слепой порядок режимов; заранее заданная метрика, статистическая процедура и минимально обнаружимый эффект.
-6. Независимое повторение; никакой интерпретации магнитной левитации как гравитационного экранирования.
+1. A preliminary electromagnetic model of the field distribution, its gradients, and forces on every material in the setup.
+2. Separate control measurements of heating, drift, electrostatics, vibration, support movement, acoustics, and air currents (using vacuum if necessary).
+3. Tests of different orientations, polarities, and frequencies, including field-off and sham switching conditions.
+4. A separate nonmagnetic control channel and a remote reference sensor, with independent sensitivity calibration.
+5. Randomized and, where possible, blinded ordering of conditions; a predefined metric, statistical procedure, and minimum detectable effect.
+6. Independent replication; magnetic levitation must never be interpreted as gravitational shielding.
 
-### Последовательность
+### Sequence
 
-**Этап 0 — литература:** составить карту предшествующих опытов с полями, сверхпроводниками и крутильными весами; не повторять заведомо проверенные схемы без новой гипотезы.
+**Stage 0 — literature:** map previous experiments involving fields, superconductors, and torsion balances; do not repeat configurations already tested without a new hypothesis.
 
-**Этап 1 — модель:** рассчитать нормальные электромагнитные силы, стандартный вклад энергии магнитного поля в гравитацию и требуемую чувствительность датчика.
+**Stage 1 — model:** calculate ordinary electromagnetic forces, the standard gravitational contribution of magnetic field energy, and the required sensor sensitivity.
 
-**Этап 2 — критерий осуществимости:** определить, возможно ли отделить искомый сигнал от помех на доступном оборудовании; если нет — не строить стенд.
+**Stage 2 — feasibility criterion:** determine whether the proposed signal can be separated from interference using available equipment; if not, do not build the apparatus.
 
-**Этап 3 — пилот и верификация:** сначала калибровка и контрольные измерения; затем основной тест, анализ с заранее зафиксированным порогом и независимая репликация.
+**Stage 3 — pilot and verification:** first perform calibration and control measurements; then the main test, analysis using a predefined threshold, and independent replication.
 
-## Связанные направления программы
+## Related program directions
 
-- Механическое вращение и гравитомагнетизм — отдельный трек, не смешивать с GL-007.
-- Вращающиеся магнитные поля (RMF) без ротора — известная технология; самостоятельная новизна не доказана.
-- Плазма, спины и сверхпроводящие токи — отдельные физические механизмы; изучать по существующей литературе до выбора экспериментов.
-- Сравнение с опытами NASA и с современными отрицательными результатами поиска аномальных электромагнитных сил.
+- Mechanical rotation and gravitomagnetism are a separate track and must not be conflated with GL-007.
+- Rotating magnetic fields (RMF) without a rotor are an established technology; independent novelty has not been demonstrated.
+- Plasma, spins, and superconducting currents involve different physical mechanisms; examine the existing literature before choosing experiments.
+- Compare against NASA experiments and recent negative results from searches for anomalous electromagnetic forces.
 
-## Правило интерпретации
+## Interpretation rule
 
-**Не называть измерение изменения веса «антигравитацией», пока независимый эксперимент не подтвердит изменение гравитационного взаимодействия при исключённых негравитационных силах.** Неизвестный эффект остаётся гипотезой, а отсутствие обнаружения также является информативным результатом.
+**Do not call a measured weight change “antigravity” until an independent experiment confirms a change in gravitational interaction with nongravitational forces excluded.** An unknown effect remains a hypothesis, and a nondetection is also an informative result.
 
-## Последние расчёты и ответы
-- [28.10.2026 — закрытые вопросы: магнитное экранирование, эксперименты, подъём 1 т / 6 м², масса, энергия, высота](./unanswered-questions-2026-10-28.md)
+## Latest calculations and answers
+
+- [2026-10-28 — resolved questions: magnetic shielding, experiments, lifting 1 tonne over 6 m², mass, energy, and height](./unanswered-questions-2026-10-28.md)

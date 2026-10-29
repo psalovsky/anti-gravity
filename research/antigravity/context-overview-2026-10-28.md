@@ -1,70 +1,70 @@
-# Gravity Lab — обзор обсуждения и мировых экспериментов
+# Gravity Lab — overview of the discussion and experiments worldwide
 
-**Дата:** 28 октября 2026 года  
-**Тип документа:** контекст исследовательской программы, не доказательство гипотез  
-**Основной план:** [GL-007 и направления Gravity Lab](./README.md)
+**Date:** October 28, 2026  
+**Document type:** research program context, not evidence for the hypotheses  
+**Main plan:** [GL-007 and Gravity Lab directions](./README.md)
 
-## 1. Постановка задачи
+## 1. Problem statement
 
-- Цель — исследовать, **можно ли менять само гравитационное взаимодействие**, а не просто создавать подъёмную силу, компенсирующую тяжесть.
-- Конечный образ: локальная область или «луч», внутри которого притяжение Земли ослаблено. **Это мысленный эксперимент, не существующая технология.** В отсутствие силы тяжести после толчка тело двигалось бы по инерции.
-- Приоритет — не повторение уже известных устройств и не «гаражная демонстрация», а поиск **физически обоснованной, новой и измеримой гипотезы**; сначала обзор опубликованных работ и расчёты, потом стенд.
-- Различать три цели: (а) магнитно удержать предмет; (б) изменить весы из-за паразитных сил; (в) действительно изменить гравитационное притяжение. Только (в) относится к гипотезе экранирования.
+- The goal is to investigate **whether gravitational interaction itself can be changed**, rather than merely generating lift that counteracts gravity.
+- The ultimate image is a local region or “beam” within which Earth's attraction is weakened. **This is a thought experiment, not an existing technology.** Without gravitational force, a body would continue moving by inertia after a push.
+- The priority is neither repeating known devices nor a “garage demonstration,” but finding a **physically justified, novel, and measurable hypothesis**; review published work and perform calculations before building an apparatus.
+- Distinguish three goals: (a) holding an object magnetically; (b) changing a scale reading through parasitic forces; (c) actually changing gravitational attraction. Only (c) concerns the shielding hypothesis.
 
-## 2. Как развивался разговор — главные вопросы
+## 2. How the conversation developed — main questions
 
-1. **Вращение массивных тел и гироскопов.** Обсудили гипотезы аномальной гравитации от вращения; обычное вращение массы даёт известные чрезвычайно малые релятивистские эффекты, но не рабочую антигравитацию.
-2. **Можно ли вращать не ротор, а поле?** Два ортогональных электромагнита с фазовым сдвигом создают вращающееся магнитное поле без вращающихся деталей. Идея давно реализована; простая сборка катушек не является новым опытом.
-3. **Вращающаяся плазма.** В Rotamak вращающееся поле возбуждает токи и управляет конфигурацией плазмы; это подтверждённая электродинамика, а не обнаруженное изменение тяжести.
-4. **Сверхпроводники и спины.** Рассмотрели сообщения о необычных показаниях приборов и отрицательные независимые проверки. Спин — квантовый угловой момент, не буквальное вращение микроскопического шарика.
-5. **Пузырь Алькубьерре.** Математические решения общей теории относительности не означают, что существует доступный способ создать нужное пространство-время. Главная проблема исходной сверхсветовой модели — необходимая экзотическая материя/отрицательные энергии и отсутствие технологии реализации. Есть субсветовые математические модели с положительной энергией, не являющиеся действующим двигателем.
-6. **Где заканчивается гравитация?** По стандартной теории гравитационное взаимодействие есть и между атомами, но чрезвычайно слабое. Прямо выделить взаимное притяжение двух отдельных атомов пока не удалось. Эффект Казимира измерять легче, поскольку его физическая природа и масштаб совсем другие.
-7. **Атомная интерферометрия.** Атомы можно использовать как датчики ускорения/гравитационного поля массивного источника. Один атом в качестве датчика — не то же самое, что обнаружить собственное поле одного атома.
-8. **Магнетизм и гравитация: единое происхождение?** Обсудили попытки геометрического объединения (Калуца — Клейн), теорию струн, гравитомагнетизм. Никаких подтверждений, что обычный магнетизм является частным случаем гравитации, нет.
-9. **Галактические магнитные поля.** Магнитные поля пронизывают галактики и скопления, воздействуют на проводящий газ/плазму и противодействуют её сжатию; они **не «сжимают» гравитационное поле и не экранируют его**. Гравитация формирует крупномасштабную динамику, а плазма связывает оба явления.
-10. **Подвешенный магнит в вакууме.** Включение электромагнита изменяет распределение энергии, а значит по ОТО вносит крошечный вклад в гравитацию, но **не выключает земную тяжесть под ним**. Любое наблюдаемое движение магнитного образца может быть обычной магнитной силой с равной реакцией на источник.
-11. **Переход к конкретной задаче:** проверять *гипотезу* магнитного экранирования **небольшого гравитационного взаимодействия двух масс**, а не строить антигравитационный луч или заново повторять Rotamak.
+1. **Rotation of massive bodies and gyroscopes.** We discussed hypotheses of anomalous gravity caused by rotation; ordinary mass rotation produces known, extremely small relativistic effects, not working antigravity.
+2. **Can the field rotate instead of a rotor?** Two orthogonal electromagnets with a phase offset create a rotating magnetic field without moving parts. This idea has long been implemented; a simple coil assembly is not a new experiment.
+3. **Rotating plasma.** In Rotamak, a rotating field drives currents and controls plasma configuration; this is established electrodynamics, not a detected change in gravity.
+4. **Superconductors and spins.** We considered reports of unusual instrument readings and negative independent tests. Spin is quantum angular momentum, not the literal rotation of a microscopic ball.
+5. **The Alcubierre bubble.** Mathematical solutions of general relativity do not imply an available method of creating the required spacetime. The main problems with the original superluminal model are the required exotic matter/negative energies and the absence of implementation technology. Subluminal mathematical models with positive energy exist, but are not operational engines.
+6. **Where does gravity end?** Standard theory predicts gravitational interaction even between atoms, but it is extremely weak. The mutual attraction of two individual atoms has not yet been directly isolated. The Casimir effect is easier to measure because its physical origin and scale are entirely different.
+7. **Atom interferometry.** Atoms can serve as sensors of acceleration/the gravitational field of a massive source. Using one atom as a sensor is not the same as detecting one atom's own field.
+8. **Magnetism and gravity: a common origin?** We discussed attempts at geometric unification (Kaluza–Klein), string theory, and gravitomagnetism. There is no confirmation that ordinary magnetism is a special case of gravity.
+9. **Galactic magnetic fields.** Magnetic fields permeate galaxies and clusters, affect conducting gas/plasma, and resist its compression; they **do not “compress” the gravitational field or shield it**. Gravity shapes large-scale dynamics, while plasma links the two phenomena.
+10. **A suspended magnet in vacuum.** Switching on an electromagnet changes the energy distribution and therefore, under general relativity, makes a tiny contribution to gravity, but **does not switch off Earth's gravity beneath it**. Any observed motion of a magnetic sample may be an ordinary magnetic force with an equal reaction on the source.
+11. **Moving to a concrete question:** test the *hypothesis* of magnetic shielding of the **small gravitational interaction between two masses**, rather than build an antigravity beam or repeat Rotamak.
 
-## 3. Ключевые мировые эксперименты и их смысл
+## 3. Key experiments worldwide and their meaning
 
-- **1980–1982, Австралия, Rotamak.** Плазму облучали вращающимся магнитным полем; создавались токи и устойчивые плазменные конфигурации. **Результат: управление плазмой подтверждено; гравитационное экранирование не исследовалось.**  
-  Источники: [Hugrass et al., PRL, 1980](https://doi.org/10.1103/PhysRevLett.44.1676), [Durance et al., PRL, 1982](https://doi.org/10.1103/PhysRevLett.48.1252).
-- **1992 и далее — сообщения Подклетнова об «экранировании» над сверхпроводником.** Сообщалось о снижении веса; результат не получил надёжного независимого подтверждения. **2003, Hathaway, Cleveland, Bao:** близкая попытка воспроизведения не обнаружила заявленного эффекта в пределах чувствительности установки.  
+- **1980–1982, Australia, Rotamak.** Plasma was exposed to a rotating magnetic field, generating currents and stable plasma configurations. **Result: plasma control was demonstrated; gravitational shielding was not investigated.**  
+  Sources: [Hugrass et al., PRL, 1980](https://doi.org/10.1103/PhysRevLett.44.1676), [Durance et al., PRL, 1982](https://doi.org/10.1103/PhysRevLett.48.1252).
+- **1992 onward — Podkletnov's reports of “shielding” above a superconductor.** A reduction in weight was reported; the result has not received reliable independent confirmation. **2003, Hathaway, Cleveland, Bao:** a closely related replication attempt did not detect the claimed effect within the apparatus's sensitivity.  
   [Physica C, 2003](https://doi.org/10.1016/S0921-4534(02)02284-0).
-- **1997, магнитная левитация лягушки.** Сильное неоднородное поле около 16 Тл компенсирует вес диамагнитного тела. **Результат реальный, но тяжесть не экранируется** — действует встречная магнитная сила.  
+- **1997, magnetic levitation of a frog.** A strong, nonuniform field of approximately 16 T counteracts the weight of a diamagnetic body. **The result is real, but gravity is not shielded** — an opposing magnetic force acts.  
   [Berry & Geim, Eur. J. Phys., 1997](https://doi.org/10.1088/0143-0807/18/4/012).
-- **1998, NASA, Noever, Koczor, Roberson.** Сверхпроводящий диск диаметром 15 см поместили в статор, создающий вращающееся магнитное поле; гравиметр искал отклонения. Эквивалентная скорость вращения поля до 12 000 об/мин. **Изменения гравитации, связанные с вращающимся полем, не выявлены в рамках чувствительности опыта.**  
+- **1998, NASA, Noever, Koczor, Roberson.** A 15 cm superconducting disk was placed in a stator producing a rotating magnetic field; a gravimeter searched for deviations. The equivalent field rotation rate reached 12,000 rpm. **No gravity changes associated with the rotating field were detected within the experiment's sensitivity.**  
   [NASA Technical Reports Server, 1998](https://ntrs.nasa.gov/citations/19990019627).
-- **2021, Westphal и соавторы.** Крутильным маятником измерили ньютоновское взаимодействие между телами массами порядка **90 мг**. **Вывод: измерение гравитации очень малых, но всё ещё макроскопических масс реально; отдельный атом-источник — совсем иной масштаб.**  
+- **2021, Westphal et al.** A torsion pendulum measured Newtonian interaction between bodies with masses of approximately **90 mg**. **Conclusion: gravity measurements involving very small but still macroscopic masses are feasible; a single atom as a source is an entirely different scale.**  
   [Nature, 2021](https://doi.org/10.1038/s41586-021-03250-7).
-- **2024, Tajmar, Kößling, Neunzig (Дрезден).** Высокочувствительными балансами в вакууме исследовали электромагнитные конфигурации: соленоиды, конденсаторы, перекрёстные и тороидальные поля, преимущественно **стационарные** режимы. **Не обнаружено аномальных сил/моментов на уровне наноньютонов и наноньютон-метров.** Отрицательный результат не является проверкой вообще всех возможных динамических режимов.  
+- **2024, Tajmar, Kößling, Neunzig (Dresden).** Highly sensitive balances in vacuum investigated electromagnetic configurations: solenoids, capacitors, crossed and toroidal fields, primarily under **steady-state** conditions. **No anomalous forces/torques were detected at the nanonewton and nanonewton-meter level.** A negative result does not test every possible dynamic regime.  
   [Scientific Reports, 2024](https://doi.org/10.1038/s41598-024-70286-w).
-- **1994/2024 — модели варп-пузырей** (это не эксперименты): исходная геометрия Алькубьерре требует экзотических условий; модель Fuchs et al. (2024) показывает субсветовую метрику, удовлетворяющую энергетическим условиям, но без практического устройства.  
+- **1994/2024 — warp-bubble models** (not experiments): the original Alcubierre geometry requires exotic conditions; Fuchs et al. (2024) present a subluminal metric satisfying energy conditions, but no practical device.  
   [Alcubierre, 1994](https://doi.org/10.1088/0264-9381/11/5/001), [Fuchs et al., 2024](https://doi.org/10.1088/1361-6382/ad26aa).
 
-## 4. Физические ориентиры и ограничения
+## 4. Physical reference points and limitations
 
-- Земная гравитация **не имеет известного экрана**. Магнитные материалы могут перенаправлять магнитный поток, но это не аналог гравитационной защиты.
-- Магнитное поле имеет энергию: при **1 Тл и объёме 1 л** она порядка **400 Дж**, эквивалент массы — около **4,4 × 10⁻¹⁵ кг**. Ожидаемое обычное гравитационное действие крайне мало.
-- Ньютоновская сила двух масс по **10 г на расстоянии 1 см**: около **6,7 × 10⁻¹¹ Н (67 пН)**. Для двух масс по 1 г при том же расстоянии она в 100 раз слабее. Следовательно, малые массы уменьшают паразитные нагрузки, но одновременно уменьшают целевой сигнал.
-- Сила, действующая на «немагнитный» образец, **не обязательно гравитационная**: остаются диа-/парамагнитная восприимчивость, электростатика, токи Фуко, градиенты поля, нагрев, вибрация, упругость нити, наводки и дрейф.
-- Наблюдения магнитных полей галактик (порядка нескольких микрогаусс) важны для понимания поведения плазмы, но не дают свидетельства экранирования тяжести.  
-  [Обзор Max Planck Institute for Radio Astronomy](https://atlas-of-galaxies.mpifr-bonn.mpg.de/39548/scientific_background).
+- Earth's gravity **has no known shield**. Magnetic materials can redirect magnetic flux, but this is not an analogue of gravitational shielding.
+- A magnetic field has energy: at **1 T in a volume of 1 L**, it is approximately **400 J**, with a mass equivalent of approximately **4.4 × 10⁻¹⁵ kg**. Its expected ordinary gravitational effect is extremely small.
+- Newtonian force between two **10 g masses separated by 1 cm**: approximately **6.7 × 10⁻¹¹ N (67 pN)**. For two 1 g masses at the same separation, it is 100 times weaker. Smaller masses therefore reduce parasitic loads but also reduce the target signal.
+- A force acting on a “nonmagnetic” sample **is not necessarily gravitational**: diamagnetic/paramagnetic susceptibility, electrostatics, eddy currents, field gradients, heating, vibration, fiber elasticity, interference, and drift remain possible.
+- Observations of galactic magnetic fields (of the order of a few microgauss) matter for understanding plasma behavior but provide no evidence of gravitational shielding.  
+  [Max Planck Institute for Radio Astronomy overview](https://atlas-of-galaxies.mpifr-bonn.mpg.de/39548/scientific_background).
 
-## 5. Текущая гипотеза — GL-007
+## 5. Current hypothesis — GL-007
 
-> При определённой конфигурации магнитного поля измеряемое *гравитационное* притяжение двух известных масс изменяется сверх стандартного прогноза после исключения негравитационных сил.
+> Under a certain magnetic field configuration, the measured *gravitational* attraction between two known masses changes beyond the standard prediction after nongravitational forces have been excluded.
 
-- **Вариант A (вспомогательный):** измерять вес небольшого образца при включённом и выключенном поле. Сам по себе сдвиг веса **недостаточен**.
-- **Вариант B (предпочтительный):** измерять притяжение двух известных небольших масс крутильными весами, систематически менять магнитное поле в области взаимодействия и использовать контроль перемещением массы-источника.
-- **Контроли:** электромагнитная модель; раздельная оценка всех паразитных сил; термические и вибрационные референсы; статистика со слепым/рандомизированным переключением режимов; контрольные образцы; независимое воспроизведение.
-- **Критерий:** перед постройкой рассчитать отношение прогнозируемого эффекта к реальному шуму установки. Нет надёжно отделимого сигнала — нет оснований строить дорогой стенд.
-- **Статус на 28.10.2026:** гипотеза и методология записаны, **эффект не обнаружен и эксперимент Gravity Lab ещё не проведён**.
+- **Option A (auxiliary):** measure a small sample's weight with the field on and off. A weight shift by itself is **insufficient**.
+- **Option B (preferred):** measure attraction between two known small masses using a torsion balance, systematically vary the magnetic field in the interaction region, and use source-mass movement as a control.
+- **Controls:** electromagnetic model; separate assessment of all parasitic forces; thermal and vibration references; statistics with blinded/randomized switching of conditions; control samples; independent replication.
+- **Criterion:** before construction, calculate the ratio of the predicted effect to the apparatus's actual noise. Without a reliably separable signal, there is no basis for building an expensive apparatus.
+- **Status as of 2026-10-28:** the hypothesis and methodology have been recorded; **no effect has been detected and the Gravity Lab experiment has not yet been conducted**.
 
-## 6. Практический вывод
+## 6. Practical conclusion
 
-**Главный сдвиг в постановке задачи:** от «как заставить предмет летать» к «меняется ли само измеряемое гравитационное взаимодействие при управляемом электромагнитном воздействии». Результат будет научно содержательным только при наличии контроля обычных магнитных сил и при сопоставлении с уже проведёнными опытами. Непроверенная комбинация параметров ещё не означает ожидаемую аномалию.
+**Main shift in the question:** from “how to make an object fly” to “whether the measured gravitational interaction itself changes under controlled electromagnetic influence.” The result will be scientifically meaningful only if ordinary magnetic forces are controlled and previous experiments are considered. An untested combination of parameters does not imply an expected anomaly.
 
-**Следующий шаг:** составить карту режимов, измеренных в NASA/Дрездене/других работах, выбрать конкретный предсказательный механизм, оценить ожидаемую силу и чувствительность, после чего принять решение о GL-007.
+**Next step:** map the conditions measured at NASA/in Dresden/in other studies, select a specific predictive mechanism, estimate the expected force and sensitivity, and then decide whether to proceed with GL-007.
 
-**Примечание:** этот обзор отражает разговор и выбранное направление на указанную дату. Он не заменяет систематический обзор всей опубликованной литературы.
+**Note:** this overview reflects the conversation and chosen direction as of the stated date. It does not replace a systematic review of all published literature.

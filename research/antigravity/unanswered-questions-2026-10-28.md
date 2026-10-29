@@ -1,83 +1,85 @@
-# Gravity Lab — ответы на оставшиеся вопросы и поправка расчёта
+# Gravity Lab — answers to remaining questions and calculation correction
 
-**Дата:** 28 октября 2026 года  
-**Статус:** аналитический обзор, не реализованный опыт и не проект готового летательного аппарата.  
-**Предыдущие записи:** [контекст](./context-overview-2026-10-28.md) · [журнал исследований](./research-journal.md) · [журнал экспериментов](./experiment-log.md) · [идея Vibe Science](./vibe-science-idea.md).
+**Date:** October 28, 2026  
+**Status:** analytical review, not a completed experiment or a design for a finished aircraft.  
+**Previous records:** [context](./context-overview-2026-10-28.md) · [research journal](./research-journal.md) · [experiment log](./experiment-log.md) · [Vibe Science concept](./vibe-science-idea.md).
 
-## 1. Проводились ли опыты по «магнитному лучу» или щиту, экранирующему земную гравитацию?
+## 1. Have experiments tested a “magnetic beam” or shield that blocks Earth's gravity?
 
-**Прямого подтверждённого экранирования гравитации магнитным полем нет.** Искали похожие эффекты, но они различаются постановкой. Нельзя считать аномальное показание весов доказательством гравитационного щита.
+**There is no directly confirmed shielding of gravity by a magnetic field.** Related effects have been investigated, but the experimental arrangements differ. An anomalous scale reading cannot be treated as proof of a gravitational shield.
 
-- **1992, E. Podkletnov и R. Nieminen, Physica C.** Над охлаждённым сверхпроводящим диском с системой магнитных полей подвешивали немагнитный образец массой 5,48 г. Авторы заявили уменьшение показания веса на **0,05–0,3%**. Это **сообщение авторов**, а не воспроизведённый факт. https://doi.org/10.1016/0921-4534(92)90055-H
-- **1996, C. S. Unnikrishnan, Physica C.** Критический разбор и предварительные опыты в статической конфигурации не нашли свидетельств экранирования. https://doi.org/10.1016/0921-4534(96)00340-1
-- **1998, NASA — D. Noever, R. Koczor, R. Roberson.** Сверхпроводящий диск диаметром 15 см внутри трёхфазного статора; вращающееся магнитное поле эквивалентно до 12 000 об/мин; магнитные поля у диска **менее 60 гаусс**, то есть менее **0,006 Тл** (это НЕ 16 или 21 Тл). Гравиметр не обнаружил влияния вращения магнитного поля или диска в пределах точности. https://ntrs.nasa.gov/citations/19990019627
-- **2003, G. Hathaway, B. Cleveland, Y. Bao, Physica C.** Попытка воспроизвести заявленный эффект вращающегося сверхпроводника не обнаружила гравитационной аномалии в пределах чувствительности. https://doi.org/10.1016/S0921-4534(02)02284-0
-- **2024, M. Tajmar, M. Kößling, O. Neunzig, Scientific Reports.** Различные стационарные электромагнитные конфигурации, в том числе соленоиды, перекрёстные и тороидальные катушки, проверяли с вакуумными высокочувствительными балансами. **Аномальных сил и моментов до диапазона наноньютонов/наноньютон-метров не выявили**. Исследование в основном стационарных полей не проверяет все высокочастотные схемы. https://doi.org/10.1038/s41598-024-70286-w
+- **1992, E. Podkletnov and R. Nieminen, Physica C.** A 5.48 g nonmagnetic sample was suspended above a cooled superconducting disk with a system of magnetic fields. The authors claimed a **0.05–0.3%** reduction in the weight reading. This is **the authors' report**, not a replicated fact. https://doi.org/10.1016/0921-4534(92)90055-H
+- **1996, C. S. Unnikrishnan, Physica C.** A critical analysis and preliminary experiments in a static configuration found no evidence of shielding. https://doi.org/10.1016/0921-4534(96)00340-1
+- **1998, NASA — D. Noever, R. Koczor, R. Roberson.** A 15 cm superconducting disk inside a three-phase stator; a rotating magnetic field equivalent to up to 12,000 rpm; fields near the disk **below 60 gauss**, or below **0.006 T** (NOT 16 or 21 T). The gravimeter detected no effect of magnetic-field or disk rotation within its precision. https://ntrs.nasa.gov/citations/19990019627
+- **2003, G. Hathaway, B. Cleveland, Y. Bao, Physica C.** An attempt to reproduce the claimed rotating-superconductor effect found no gravitational anomaly within the measurement sensitivity. https://doi.org/10.1016/S0921-4534(02)02284-0
+- **2024, M. Tajmar, M. Kößling, O. Neunzig, Scientific Reports.** Various steady-state electromagnetic configurations, including solenoids, crossed and toroidal coils, were tested using highly sensitive vacuum balances. **No anomalous forces or torques were detected down to the nanonewton/nanonewton-meter range**. A study primarily of static fields does not test all high-frequency configurations. https://doi.org/10.1038/s41598-024-70286-w
 
-**Как это относится к GL-007:** изученные опыты часто проверяли *вес одного образца* или самопроизвольную *силу на прибор*. Наш более доказательный вопрос — меняется ли **взаимное притяжение двух известных пробных масс** при помещении управляемой магнитной конфигурации в область измерения, при удалении/перемещении массы-источника и контроле прямого магнитного воздействия. Это не гарантирует новизну: необходим систематический обзор литературы. У статического магнитного «луча» в вакууме нет простой лазерной геометрии: поле необходимо создавать катушками/магнитными системами, а его линии не обрываются в экране.
+**Relevance to GL-007:** the reviewed experiments often tested the *weight of one sample* or a spontaneous *force on an instrument*. Our more conclusive question is whether the **mutual attraction of two known test masses** changes when a controlled magnetic configuration is placed in the measurement region, while removing/moving the source mass and controlling direct magnetic effects. This does not guarantee novelty: a systematic literature review is required. A static magnetic “beam” in vacuum has no simple laser-like geometry: the field must be generated by coils/magnetic systems, and its field lines do not terminate at a shield.
 
-## 2. Подъём массы 1 тонна над обычной поверхностью: пересчёт площади 6 м²
+## 2. Lifting 1 tonne above an ordinary surface: recalculation for 6 m²
 
-**Условия разговора:** аппарат 2×3 м, **A = 6 м²**, суммарная масса с обмотками, источником питания и охлаждением **1000 кг**. Требуемая сила удержания **F≈9810 Н**.
+**Discussion assumptions:** a 2×3 m vehicle, **A = 6 m²**, total mass including windings, power source, and cooling **1000 kg**. Required supporting force **F≈9810 N**.
 
-Использована **идеализированная** модель плоской полубесконечной поверхности с магнитной восприимчивостью воды χ≈−9,05×10⁻⁶, где характерная подъёмная магнитная сила оценивается через давление **p≈|χ|B²/(2μ₀)**. Эта формула — лишь предварительная оценка при заданном распределении поля на интерфейсе, а не готовая конструкция электромагнита или универсальная модель грунта. Обязательно нужны трёхмерные расчёты полей и сил для конкретных материалов.
+An **idealized** model was used: a flat, semi-infinite surface with the magnetic susceptibility of water, χ≈−9.05×10⁻⁶, where the characteristic magnetic lift force is estimated through pressure **p≈|χ|B²/(2μ₀)**. This formula is only a preliminary estimate for a specified field distribution at the interface, not a finished electromagnet design or a universal model of soil. Three-dimensional field and force calculations for specific materials are essential.
 
-| Идеализированная эффективная площадь | Поле **у поверхности**, требуемое для 1 т |
+| Idealized effective area | Field **at the surface** required for 1 tonne |
 |---|---|
-| 10 м² | ≈16,5 Тл |
-| **6 м² (исправленный размер аппарата)** | **≈21,3 Тл** |
-| 3 м² | ≈30,1 Тл |
+| 10 m² | ≈16.5 T |
+| **6 m² (corrected vehicle size)** | **≈21.3 T** |
+| 3 m² | ≈30.1 T |
 
-Почему чем меньше площадь, тем выше поле: F∝A·B², следовательно при одинаковой массе B∝1/√A. При A=6 м² нужное давление ≈1635 Па. **Нельзя приравнивать поле прямо под установкой к полю в её собственной катушке** — они могут отличаться в разы при значительном зазоре.
+Why a smaller area requires a stronger field: F∝A·B², so at the same mass B∝1/√A. At A=6 m², the required pressure is ≈1635 Pa. **The field directly beneath the apparatus cannot be equated with the field in its own coil** — they can differ by a factor of several when the gap is substantial.
 
-**Ограничения:** обычная почва состоит из минералов с различной магнитной восприимчивостью, в том числе парамагнитных и ферромагнитных примесей. Над неидеальной поверхностью направление силы, величина, устойчивость и возможность отрыва вообще не гарантированы.
+**Limitations:** ordinary soil consists of minerals with different magnetic susceptibilities, including paramagnetic and ferromagnetic impurities. Over a nonideal surface, the force direction, magnitude, stability, and even the possibility of liftoff are not guaranteed.
 
-## 3. На сколько метров поднимется аппарат?
+## 3. How many meters could the vehicle rise?
 
-**Достоверного числа в метрах пока нет.** Оно определяется реальным пространственным профилем магнитного поля, зазором до поверхности, магнитными свойствами грунта и устойчивостью. Если статическое поле лишь уравновешивает массу при минимальном зазоре, аппарат может **вообще не оторваться**; при удалении поле обычно ослабевает.
+**There is no reliable height in meters yet.** It depends on the actual spatial magnetic field profile, surface clearance, the ground's magnetic properties, and stability. If the static field only balances the mass at the minimum gap, the vehicle may **never lift off**; the field generally weakens with distance.
 
-**Иллюстрация, НЕ модель готового аппарата:** одиночная круговая петля с площадью 6 м² (эквивалентный радиус ≈1,38 м). На оси петли отношение поля на расстоянии h к полю в её центре:
+**Illustration, NOT a model of a finished vehicle:** a single circular loop with an area of 6 m² (equivalent radius ≈1.38 m). On the loop's axis, the ratio of the field at distance h to the field at its center is:
 `B(h)/B(0)=[a²/(a²+h²)]^(3/2)`.
 
-- При h=0,5 м: поле ≈0,83 от центрального, а условная сила, растущая как B², ≈0,69 от начальной.
-- При h=1 м: поле ≈0,53, условная сила ≈0,28 от начальной.
-- Чтобы **на оси** одиночной петли получить у земли **21,3 Тл с высоты 1 м**, её центральное поле по этой модели должно быть порядка **40 Тл**, а формальная величина NI — около **88 миллионов ампер-витков**. Но это **не** достаточное условие подъёма: по площади 6 м² поле у земли будет неоднородным, а силовую интегральную задачу здесь мы не решали.
+- At h=0.5 m: the field is ≈0.83 of the central field, and a hypothetical force scaling as B² is ≈0.69 of its initial value.
+- At h=1 m: the field is ≈0.53, and the hypothetical force is ≈0.28 of its initial value.
+- To obtain **21.3 T at ground level from a height of 1 m**, **on the axis** of a single loop, this model requires a central field of approximately **40 T** and a formal NI value of approximately **88 million ampere-turns**. However, this is **not** a sufficient condition for lift: the ground-level field over the 6 m² area will be nonuniform, and the integrated force problem has not been solved here.
 
-Следовательно, из данных «21,3 Тл, 6 м²» нельзя вывести рабочую высоту или обещать зависание на сантиметрах/метрах.
+Therefore, “21.3 T, 6 m²” does not determine an operating height or justify promises of hovering centimeters/meters above ground.
 
-## 4. Сколько будет весить установка?
+## 4. How much would the apparatus weigh?
 
-**Неизвестно без электромагнитной, конструкционной и криогенной модели.** Нужны размеры катушек, допустимые механические напряжения, материал проводника, температура, охлаждение, электропитание, управление, экранирование и массивная конструкция для сил в поле.
+**Unknown without electromagnetic, structural, and cryogenic models.** Required inputs include coil dimensions, allowable mechanical stresses, conductor material, temperature, cooling, power supply, control, shielding, and a substantial structure to withstand field forces.
 
-Проверенная отправная точка: National High Magnetic Field Laboratory имеет **сверхпроводящий магнит на 32 Тл массой 2,3 тонны**, однако диаметр рабочей полости — **всего 34 мм**. Это не аппарат, способный создавать 32 Тл **на 6 м² и на расстоянии от земли**; данные не позволяют линейно экстраполировать массу. Источник: https://nationalmaglab.org/about-the-maglab/around-the-lab/meet-the-magnets/meet-the-32-tesla-superconducting-magnet/
+A verified reference point: the National High Magnetic Field Laboratory has a **32 T superconducting magnet weighing 2.3 tonnes**, but its working bore diameter is **only 34 mm**. This is not a device capable of generating 32 T **over 6 m² at a distance from the ground**; these data do not support linear mass extrapolation. Source: https://nationalmaglab.org/about-the-maglab/around-the-lab/meet-the-magnets/meet-the-32-tesla-superconducting-magnet/
 
-**Оценка осуществимости:** для автолётной диамагнитной подушки над произвольным грунтом нет проверенной схемы, которая укладывалась бы в полную массу 1 т. Точное «весит N тонн» сейчас было бы выдумкой. При 21,3 Тл магнитное давление внутри сильного поля B²/(2μ₀) ≈ **180 МПа**; требуются серьёзные механические расчёты.
+**Feasibility assessment:** there is no validated design for a flying vehicle using a diamagnetic cushion above arbitrary ground that fits within a total mass of 1 tonne. An exact claim of “it weighs N tonnes” would currently be fabricated. At 21.3 T, magnetic pressure within the strong field, B²/(2μ₀), is approximately **180 MPa**; substantial mechanical calculations are required.
 
-## 5. Сколько электроэнергии потребуется на борту?
+## 5. How much onboard electrical energy would be required?
 
-**Нельзя выводить непрерывное потребление в кВт только из числа тесла.** Отличать:
-- **Энергия магнитного поля** — при 21,3 Тл плотность `u=B²/(2μ₀)≈1,8×10⁸ Дж/м³≈50 кВт·ч/м³`. Это энергия поля, а не ежедневный расход и не ёмкость аккумулятора: нужен реальный объём поля и параметры контура.
-- **Медная/резистивная катушка** постоянно расходует мощность на джоулев нагрев; уменьшение нагрева требует больших проводников и охлаждения. В опыте с левитацией лягушки применяли лабораторный магнит Bitter, потреблявший **≈4 МВт**, но это **не оценка** потребления нашего тонного аппарата.
-- **Сверхпроводящая катушка** может долго поддерживать поле с малыми электрическими потерями при наличии криосистемы, но охлаждение, управление, пуск, преобразователи и безопасность остаются. Нужны масса и мощность холодильной установки, источник энергии, расчёт магнитных напряжений.
+**Continuous power consumption in kW cannot be derived from a tesla value alone.** Distinguish:
 
-**Результат:** конкретные масса/кВт/кВт·ч для борта и продолжительность работы без схемы не рассчитываются честно; обещание «1 тонну поднимет 30 кВт» было бы неправдой. Источник по магниту лягушки: https://e-lub.net/annuals/dl2.htm
+- **Magnetic field energy:** at 21.3 T, the energy density is `u=B²/(2μ₀)≈1.8×10⁸ J/m³≈50 kWh/m³`. This is field energy, not daily consumption or battery capacity: the actual field volume and circuit parameters are needed.
+- **A copper/resistive coil** continuously consumes power through Joule heating; reducing heating requires larger conductors and cooling. The frog-levitation experiment used a laboratory Bitter magnet consuming **≈4 MW**, but this is **not an estimate** of our one-tonne vehicle's consumption.
+- **A superconducting coil** can sustain a field for a long time with low electrical losses if a cryogenic system is available, but cooling, control, startup, converters, and safety remain necessary. The refrigeration system's mass and power, an energy source, and magnetic stress calculations are required.
 
-## 6. Можно ли опираться на магнитное поле Земли?
+**Result:** specific onboard mass/kW/kWh values and operating duration cannot honestly be calculated without a design; a promise that “30 kW will lift 1 tonne” would be false. Source on the frog magnet: https://e-lub.net/annuals/dl2.htm
 
-**Взаимодействие реально.** Спутниковые магнитные катушки создают **момент вращения**, а электродинамические тросы на орбите — силы при токе в магнитном поле; это не демонстрация зависания у поверхности Земли.
+## 6. Can Earth's magnetic field serve as external support?
 
-Земное поле примерно **25–65 микротесла**, гораздо слабее лабораторных тесловых полей, а его крупномасштабный градиент возле поверхности чрезвычайно мал. В дипольной оценке при 50 мкТл характерная радиальная производная `3B/Rз≈2,35×10⁻¹¹ Тл/м`. Для силы 9810 Н понадобился бы магнитный момент **~4×10¹⁴ А·м²**; для одного витка на 6 м² формально **~7×10¹³ А** — нереализуемо. Локальные геомагнитные аномалии — отдельный случай, но не универсальная опора. Источник: https://www.ncei.noaa.gov/products/geomagnetism-frequently-asked-questions
+**The interaction is real.** Satellite magnetic coils generate **torque**, while orbital electrodynamic tethers produce forces when current flows in a magnetic field; this does not demonstrate hovering near Earth's surface.
 
-## 7. Что зафиксировано о Vibe Science и лабораториях?
+Earth's field is approximately **25–65 microtesla**, far weaker than laboratory fields measured in tesla, and its large-scale gradient near the surface is extremely small. In a dipole estimate at 50 μT, the characteristic radial derivative is `3B/R_Earth≈2.35×10⁻¹¹ T/m`. Producing 9810 N would require a magnetic moment of **~4×10¹⁴ A·m²**; for a single 6 m² turn, formally **~7×10¹³ A** — infeasible. Local geomagnetic anomalies are a separate case, not a universal support mechanism. Source: https://www.ncei.noaa.gov/products/geomagnetism-frequently-asked-questions
 
-- **Vibe Science** — идея «гипотеза на естественном языке → проверка литературы и расчёт → протокол → комплектующие/роботизированная или академическая лаборатория → физический опыт → сырые данные → воспроизводимый отчёт». Это **концепция**, не начатая разработка: [отдельный документ](./vibe-science-idea.md).
-- Существуют облачные лаборатории и исследовательские группы, но они **не проводят любые новые физические опыты** по одной текстовой команде. Для GL-007 потребуется специальная метрология и экспертный контроль.
-- Контакты потенциально подходящих лабораторий, варианты подачи заявок и примеры перегруженности научных установок собраны в [журнале исследований](./research-journal.md). **Никаких писем не отправляли, сотрудничество не согласовано.**
+## 7. What has been recorded about Vibe Science and laboratories?
 
-## 8. Вывод и критерий следующего шага
+- **Vibe Science** is the idea of “natural-language hypothesis → literature check and calculation → protocol → components/robotic or academic laboratory → physical experiment → raw data → reproducible report.” It is a **concept**, not development already underway: [separate document](./vibe-science-idea.md).
+- Cloud laboratories and research groups exist, but they **do not conduct arbitrary new physical experiments** from a single text command. GL-007 will require specialized metrology and expert supervision.
+- Contacts for potentially suitable laboratories, application options, and examples of oversubscribed scientific facilities are collected in the [research journal](./research-journal.md). **No emails have been sent and no collaboration has been agreed.**
 
-**Есть две принципиально разные линии:**
-1. **GL-007 — возможное изменение самого гравитационного притяжения магнитным полем.** Эффект не установлен; главное — отличить его от обычных магнитных сил при парных измерениях известных масс.
-2. **Диамагнитная подушка — обычная физическая сила со стороны вещества Земли, не антигравитация.** В идеализации для 1 т и 6 м² требуется поле ≈21,3 Тл у поверхности, но масса, мощность и высота аппарата не определены; практическая реализуемость над обычным грунтом не показана.
+## 8. Conclusion and criterion for the next step
 
-Прежде чем заказывать стенд, нужно проверить **реалистичную магнитную восприимчивость разных грунтов и трёхмерную картину поля с зазором**, затем оценить массу обмоток, опор и питания и проверить, существует ли положительный баланс подъёмной силы.
+**There are two fundamentally different tracks:**
+
+1. **GL-007 — a possible change in gravitational attraction itself caused by a magnetic field.** The effect has not been established; the key is to distinguish it from ordinary magnetic forces through paired measurements of known masses.
+2. **A diamagnetic cushion — an ordinary physical force exerted by Earth's material, not antigravity.** In the idealization, 1 tonne and 6 m² require a field of ≈21.3 T at the surface, but the vehicle's mass, power, and height remain undetermined; practical feasibility over ordinary ground has not been demonstrated.
+
+Before commissioning an apparatus, investigate **realistic magnetic susceptibilities of different soils and the three-dimensional field distribution with a gap**, then estimate the mass of windings, supports, and power systems and check whether a positive net lift balance is possible.

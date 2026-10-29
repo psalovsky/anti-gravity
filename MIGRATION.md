@@ -5,7 +5,7 @@ Migrated on 2026-10-29 from [psalovsky/OntoHub_Skills_Private](https://github.co
 Source snapshot: 3b388e372a3d1991c38145f59d68da68c5bc07a9
 Extracted history tip: b702846b31c8e5eab38b1e2c5ea5ed21044b0c7e
 
-All six tracked project files are preserved byte-for-byte at research/antigravity, including their relative links. The existing destination README and LICENSE are retained. Only the project's subtree history is imported; unrelated private repository files and history are excluded. Git subtree extraction rewrites commit IDs while retaining relevant authors, dates, messages and revisions. Original commit links remain available in the source repository.
+At migration, all six tracked project files were preserved byte-for-byte at research/antigravity, including their relative links. The documents were subsequently translated into English on 2026-10-29; the original Russian text remains available in Git history and the source archive. The existing destination README and LICENSE are retained. Only the project's subtree history is imported; unrelated private repository files and history are excluded. Git subtree extraction rewrites commit IDs while retaining relevant authors, dates, messages and revisions. Original commit links remain available in the source repository.
 
 The original records are archived at [research/archive/antigravity](https://github.com/psalovsky/OntoHub_Skills_Private/tree/main/research/archive/antigravity). The old directory contains a redirect README.
 
