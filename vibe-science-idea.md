@@ -35,4 +35,4 @@ Do not try to automate **every** experiment immediately: start with a catalog of
 
 Only the idea has been recorded. **Development, applications, and laboratory outreach have not begun.**
 
-See also the [research journal](./research-journal.md) and [experiment log](./experiment-log.md).
+See also the [research journal](./research/antigravity/research-journal.md) and [experiment log](./research/antigravity/experiment-log.md).

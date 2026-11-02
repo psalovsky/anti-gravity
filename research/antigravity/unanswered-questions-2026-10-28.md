@@ -2,7 +2,7 @@
 
 **Date:** October 28, 2026  
 **Status:** analytical review, not a completed experiment or a design for a finished aircraft.  
-**Previous records:** [context](./context-overview-2026-10-28.md) · [research journal](./research-journal.md) · [experiment log](./experiment-log.md) · [Vibe Science concept](./vibe-science-idea.md).
+**Previous records:** [context](./context-overview-2026-10-28.md) · [research journal](./research-journal.md) · [experiment log](./experiment-log.md) · [Vibe Science concept](../../vibe-science-idea.md).
 
 ## 1. Have experiments tested a “magnetic beam” or shield that blocks Earth's gravity?
 
@@ -71,7 +71,7 @@ Earth's field is approximately **25–65 microtesla**, far weaker than laborator
 
 ## 7. What has been recorded about Vibe Science and laboratories?
 
-- **Vibe Science** is the idea of “natural-language hypothesis → literature check and calculation → protocol → components/robotic or academic laboratory → physical experiment → raw data → reproducible report.” It is a **concept**, not development already underway: [separate document](./vibe-science-idea.md).
+- **Vibe Science** is the idea of “natural-language hypothesis → literature check and calculation → protocol → components/robotic or academic laboratory → physical experiment → raw data → reproducible report.” It is a **concept**, not development already underway: [separate document](../../vibe-science-idea.md).
 - Cloud laboratories and research groups exist, but they **do not conduct arbitrary new physical experiments** from a single text command. GL-007 will require specialized metrology and expert supervision.
 - Contacts for potentially suitable laboratories, application options, and examples of oversubscribed scientific facilities are collected in the [research journal](./research-journal.md). **No emails have been sent and no collaboration has been agreed.**
 

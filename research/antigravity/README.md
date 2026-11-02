@@ -63,3 +63,9 @@ A source mass and a test mass form a gravitationally interacting pair; measure t
 ## Latest calculations and answers
 
 - [2026-10-28 — resolved questions: magnetic shielding, experiments, lifting 1 tonne over 6 m², mass, energy, and height](./unanswered-questions-2026-10-28.md)
+
+## Foundational research problems
+
+- [EM-TIME-001 — Emergent time and the frozen-ice challenge](./problems/emergent-time-frozen-ice.md): a problem statement from our dialogue about entropy, operational time, equilibrium, and microscopic change. This is theoretical background, **not** evidence of antigravity.
+
+- [Vibe Science — AI-assisted experimental service concept](../../vibe-science-idea.md) is tracked at the repository root, separately from the Gravity Lab physics program.
